@@ -25,7 +25,7 @@ const App = () =>
       </div>
       <div className={"flex flex-col space-y-4"}>
         <span>示例项目2</span>
-        <Download name={"数据库项目实例.pptx"}/>
+        <Download name={"数据库项目示例.pptx"}/>
         <Download name={"database.后端.zip"}/>
         <Download name={"database.前端.zip"}/>
         <a href="https://www.bilibili.com/video/BV1AS4y1K7Pt?spm_id_from=333.337.search-card.all.click"
