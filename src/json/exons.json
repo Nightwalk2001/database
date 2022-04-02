@@ -1,0 +1,658 @@
+[
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 366019,
+        "end": 366151,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 365389,
+        "end": 365692,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 368251,
+        "end": 368450,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 365395,
+        "end": 365692,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 379769,
+        "end": 379972,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 373144,
+        "end": 373323,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 365615,
+        "end": 365692,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 485040,
+        "end": 485208,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 379769,
+        "end": 379870,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 373182,
+        "end": 373323,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497109,
+        "end": 497259,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 485040,
+        "end": 485208,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 476364,
+        "end": 476945,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 495277,
+        "end": 495476,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494992,
+        "end": 495049,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 484832,
+        "end": 485208,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 485026,
+        "end": 485208,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 489361,
+        "end": 489553,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 485066,
+        "end": 485208,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 496264,
+        "end": 496605,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494382,
+        "end": 494586,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502465,
+        "end": 502508,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501556,
+        "end": 501620,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497109,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494992,
+        "end": 495049,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494464,
+        "end": 494898,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 495277,
+        "end": 495368,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494992,
+        "end": 495049,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494475,
+        "end": 494898,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498684,
+        "end": 499175,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494992,
+        "end": 495049,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494611,
+        "end": 494898,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498684,
+        "end": 498976,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497109,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494992,
+        "end": 495049,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 494771,
+        "end": 494898,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498073,
+        "end": 498305,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497134,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502465,
+        "end": 502598,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502187,
+        "end": 502243,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501556,
+        "end": 501620,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498073,
+        "end": 498305,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497205,
+        "end": 497228,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502465,
+        "end": 502873,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501556,
+        "end": 501620,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497210,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498684,
+        "end": 499002,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498047,
+        "end": 498305,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497240,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502465,
+        "end": 502598,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501556,
+        "end": 501620,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498073,
+        "end": 498305,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497245,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498976,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 497275,
+        "end": 497299,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498684,
+        "end": 499175,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498399,
+        "end": 498456,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498281,
+        "end": 498305,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501556,
+        "end": 501607,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 498984,
+        "end": 499369,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 517185,
+        "end": 517252,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 514359,
+        "end": 514423,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 504980,
+        "end": 505103,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502862,
+        "end": 502955,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501588,
+        "end": 501620,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 517156,
+        "end": 517225,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 514359,
+        "end": 514423,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 504980,
+        "end": 505103,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 502465,
+        "end": 502661,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 501604,
+        "end": 501620,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 514359,
+        "end": 514413,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 504470,
+        "end": 504933,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 522859,
+        "end": 522928,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 517185,
+        "end": 517266,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 514359,
+        "end": 514423,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    },
+    {
+        "chrom": "chr1",
+        "feature": "exon",
+        "start": 504865,
+        "end": 505103,
+        "strand": "-",
+        "geneName": "RP4-669L17.4"
+    }
+]

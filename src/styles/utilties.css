@@ -1,0 +1,21 @@
+@tailwind utilities;
+
+.table-container {
+    @apply w-[900px] lg:w-[1000px] xl:w-[1200px] mx-auto mb-8 shadow overflow-x-scroll border-b border-gray-200 sm:rounded-lg
+}
+
+.table {
+    @apply min-w-full divide-y divide-gray-200
+}
+
+.th {
+    @apply px-6 py-3 text-xs font-medium text-gray-500 uppercase tracking-wider
+}
+
+.tbody {
+    @apply bg-white divide-y divide-gray-200
+}
+
+.tr > td {
+    @apply whitespace-nowrap px-5 py-3
+}

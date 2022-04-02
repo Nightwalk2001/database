@@ -1,0 +1,31 @@
+@tailwind base;
+
+html {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+body {
+    overflow: overlay;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #45f6f6;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar {
+    width: 9px;
+    height: 8px;
+}
+
+div::selection,
+h1::selection,
+p::selection,
+span::selection,
+text::selection,
+pre::selection {
+    background: #79ffe1;
+}
