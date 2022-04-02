@@ -24,10 +24,12 @@ const App = () =>
         <Download name={"FishDB网页代码.rar"}/>
       </div>
       <div className={"flex flex-col space-y-4"}>
-       <span>示例项目2</span>
-       <Download name={"database.后端.zip"}/>
-       <Download name={"database.前端.zip"}/>
-     </div>
+        <span>示例项目2</span>
+        <Download name={"database.后端.zip"}/>
+        <Download name={"database.前端.zip"}/>
+        <a href="https://www.bilibili.com/video/BV1AS4y1K7Pt?spm_id_from=333.337.search-card.all.click"
+           className={"text-lg text-rose-400 transition-colors hover:underline hover:text-rose-500"}>演示视频</a>
+      </div>
     </div>
 
     <div className={"flex items-center my-20"}>
